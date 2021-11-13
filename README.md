@@ -15,5 +15,6 @@
 | Crtl + U | (Debug) Execution code |
 | Crtl + W | Close currently viewed file |
 | Crtl + Space | Opens Content Assist (e.g. show available methods or field names) |
-| Crtl + Shift + O | Remove imports | 
+| Crtl + Shift + O | Remove imports |
+| Crtl + Shift + F | Formats code |
 | Shift + Shift | Search Everywhere | 
