@@ -19,3 +19,8 @@
 | Crtl + Shift + F | Formats code |
 | Crtl + Shift + / (num) | Collapse All |
 | Shift + Shift | Search Everywhere | 
+
+# plugins-intellij
+### sonar-lint | check code
+### save-actions | format code
+
