@@ -23,4 +23,8 @@
 # plugins-intellij
 ### sonar-lint | check code
 ### save-actions | format code
+### atom-material icons | icon
+### lombok | annotation
+### rainbow brackets | format code
+### jpa-buddy | dba entity
 
